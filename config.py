@@ -13,9 +13,7 @@ raon=u'\U0001f517'
 lek=u'\U0001F48A'
 razdel=10*razd
 orien=u'\U0001F307'
-token = '862871191:AAEaXJTWQRvNb2-FGo67MAgFqwZjA42LEVs'
-#token = '589007374:AAGzDn193jl02VmHyy6d6p3t5K1qU7IBYFA'
-botan_key = '59cfc3f7-d3a5-47ee-be18-288b01fe4d79'
+token = ''
 msgtxt={'start':'<b>Dorixonalar qidiruvi tizimiga xush kelibsiz!</b>\n\n Izlamoqchi bolgan bolimni tanlang!\n'+\
          ' Yoki izlayotgan dori nomini kiriting (Kamida 3 ta belgi)',
          'territ':'<b>Shahar hududlarini belgilang</b> \n Yoki ayni vaqtdagi manzilingini yuboring',
